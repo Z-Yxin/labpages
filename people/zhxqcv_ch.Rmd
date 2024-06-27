@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-<p style="font-size: 20px;"> <img src="../imgs/logo.png" width="50" height="50"> &nbsp; <a href="./index.html">Zhou's lab</a>&nbsp; &nbsp; &nbsp; <a href="./news.html">News</a>&nbsp; &nbsp; &nbsp; <a href="./publications.html">Publications</a>&nbsp; &nbsp; &nbsp; <a href="./people.html">People</a></p>
+<p style="font-size: 20px;"> <img src="../imgs/logo.png" width="50" height="50"> &nbsp; <a href="../index.html">Zhou's lab</a>&nbsp; &nbsp; &nbsp; <a href="../news.html">News</a>&nbsp; &nbsp; &nbsp; <a href="../publications.html">Publications</a>&nbsp; &nbsp; &nbsp; <a href="../people.html">People</a></p>
 
 -------
 
