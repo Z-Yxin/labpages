@@ -1,0 +1,146 @@
+---
+title: ""
+author: ''
+date: ''
+output:
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p style="font-size: 20px;"> <img src="logo.png" width="50" height="50"> &nbsp; <a href="index.html">Zhou's lab</a>&nbsp; &nbsp; &nbsp; <a href="news.html">News</a>&nbsp; &nbsp; &nbsp; <a href="publications.html">Publications</a>&nbsp; &nbsp; &nbsp; <a href="people.html">People</a></p>
+
+-------
+
+\# First author, \* Corresponding author
+
+**2024**
+
+- Shen, X#., Zhou, X#., Guo, Y., & Wang, J. L\*. (2024). Associations of Early-Life Deprivation and Threat with Exploratory Behavior: Moderated Mediation Models of Sensation Seeking and Executive Function. *Journal of Interpersonal Violence*, 8862605241257946. <https://doi.org/10.1177/08862605241257946>
+
+- Zhou, X\*., Liu, Q., Wang, L., Gan, X., Zhang, R., Liu, X., \... & Becker, B\*. (2024). The neuroanatomical correlates of daily habitual tendencies and mediating effect on the association between daily habitual tendencies and symptoms of behavioral addictions. *Computers in Human Behavior*, 158. <https://doi.org/10.1016/j.chb.2024.108310>
+
+- Putkinen, V#\*., Zhou, X#., Gan, X., Yang, L., Becker, B\*., Sams, M., & Nummenmaa, L. (2024). Bodily maps of musical sensations across cultures. *PNAS*, *121*(5), e2308859121. <https://doi.org/10.1073/pnas.2308859121>
+
+- Shen, X#., Zhou, X#., Liao, H., McDonnell, D., & Wang, J\*. (2024). Uncovering the symptom relationship between anxiety, depression, and internet addiction among left-behind children: A large-scale purposive sampling network analysis. *Journal of Psychiatric Research*. <https://doi.org/10.1016/j.jpsychires.2024.01.025>
+
+- Zhou, X., & Shen, X\*. (2024). Unveiling the relationship between social anxiety, loneliness, motivations, and problematic smartphone use: A network approach. *Comprehensive Psychiatry*, *130*. <https://doi.org/10.1016/j.comppsych.2024.152451> 
+
+- Zhou, X#\*., Meng, Y#., Li, J., & Shen, X. (2024). Childhood adversity and mind wandering: the mediating role of cognitive flexibility and habitual tendencies. *European Journal of Psychotraumatology*, *15*(1), 2301844. [https://doi.org/10.1080/20008066.2024](https://doi.org/10.1080/20008066.2024.2301844){.uri}
+
+- Lan, C., Kou, J., Liu, Q., Qing, P., Zhang, X., Song, X., Xu, D., Zhang, Y., Chen, Y., Zhou, X., Kendrick, K. M., & Zhao, W. (2024). Oral oxytocin blurs sex differences in amygdala responses to emotional scenes. *Biol Psychiatry Cogn Neurosci Neuroimaging*. <https://doi.org/10.1016/j.bpsc.2024.05.010>
+
+- Gan, X., Zhou, F., Xu, T. *et al.* A neurofunctional signature of subjective disgust generalizes to oral distaste and socio-moral contexts. *Nat Hum Behav* (2024). <https://doi.org/10.1038/s41562-024-01868-x>
+
+- Liu, X., Tian, R., Bai, X., Liu, H., Li, T., Zhou, X., & Lei, Y. (2024). Exploring the impact of smartphone addiction on decision-making behavior in college students: an fNIRS study based on the Iowa Gambling Task. Frontiers in Psychiatry, 15. <https://doi.org/10.3389/fpsyt.2024.1342521>
+
+- Zhu, S., Liu, Q., Zhang, X., Zhou, M., Zhou, X., Ding, F., Zhang, R., Becker, B., Kendrick, K. M., & Zhao, W. (2024). Transcutaneous auricular vagus nerve stimulation enhanced emotional inhibitory control via increasing intrinsic prefrontal couplings. International Journal of Clinical and Health Psychology, 24(2). <https://doi.org/10.1016/j.ijchp.2024.100462>
+
+- Shen, X., Zhou, X., Yin, X. Q., McDonnell, D., & Wang, J. L. (2024). Facing uncertainties: The longitudinal relationship between childhood maltreatment and exploratory behavior. Child Abuse & Neglect, 106714. <https://doi.org/10.1016/j.chiabu.2024.106714>
+
+- Xu, T., Chen, Z., Zhou, X., Wang, L., Zhou, F., Yao, D., Zhou, B., & Becker, B. (2024). The central renin-angiotensin system: A genetic pathway, functional decoding, and selective target engagement characterization in humans. *Proc Natl Acad Sci U S A*, *121*(8), e2306936121. [https://doi.org/10.1073/pnas.2306936121](#0){.uri style="caret-color: white; font-size: 15pt;"}
+
+- Liu, Q., Zhu, S., Zhou, X., Liu, F., Becker, B., Kendrick, K. M., & Zhao, W. (2024). Mothers and fathers show different neural synchrony with their children during shared experiences. *NeuroImage*, 120529. <https://doi.org/10.1016/j.neuroimage.2024.120529>
+
+**2023**
+
+- Shen, X., Li, Z., Sheng, J., Zhou, X\*., & Wang, J\*. (2023). Functional MRI of Inhibitory Control Processing in Problematic Mobile Video Gamers. *Psychiatry Research*. <https://doi.org/10.1016/j.psychres.2023.115220>
+
+- Wang, L#., Zhou, X#., Song, X., Gan, X., Zhang, R., Liu, X., Xu, T., Jiao, G., Ferraro, S., Chepngetich Bore, M., Yu, F., Zhao, W., Montag, C\*., & Becker, B\*. (2023). Fear of missing out (FOMO) associates with reduced cortical thickness in core regions of the posterior default mode network and higher levels of problematic smartphone and social media use. *Addictive Behaviors*. <https://doi.org/10.1016/j.addbeh.2023.107709>
+
+- Zhou, X., Xu, T., Zeng, Y., Zhang, R., Qi, Z., Zhao, W., Kendrick, K. M., & Becker, B\*. (2023, Jan 18). The Angiotensin Antagonist Losartan Modulates Social Reward Motivation and Punishment Sensitivity via Modulating Midbrain-Striato-Frontal Circuits. *Journal of Neuroscience*, 43(3), 472-483. <https://doi.org/10.1523/JNEUROSCI.1114-22.2022>
+
+- Liu, Q., Zhou, B., Zhang, X., Qing, P., Zhou, X., Zhou, F., Xu, X., Zhu, S., Dai, J., Huang, Y., Wang, J., Zou, Z., Kendrick, K. M., Becker, B., & Zhao, W. (2023). Abnormal multi-layered dynamic cortico-subcortical functional connectivity in major depressive disorder and generalized anxiety disorder. Journal of Psychiatric Research. <https://doi.org/10.1016/j.jpsychires.2023.10.004>
+
+- Liu, Q., Song, X., Zhou, X., Huang, L., Zhang, X., Wang, L., Zhu, S., Lan, C., Yang, W., & Zhao, W. (2023). Regional superficial amygdala resting-state functional connectivity in adults infers childhood maltreatment severity. *Psychoradiology*, 3. <https://doi.org/10.1093/psyrad/kkad004>
+
+- Xu, T., Zhou, X., Kanen, J. W., Wang, L., Li, J., Chen, Z., Zhang, R., Jiao, G., Zhou, F., Zhao, W., Yao, S., & Becker, B. (2023, Apr). Angiotensin blockade enhances motivational reward learning via enhancing striatal prediction error signaling and frontostriatal communication. *Molecular Psychiatry*, 28(4), 1692-1702. [https://doi.org/10.1038/s41380-023-02001-6](#0){style="caret-color: white; font-size: 15pt;"}
+
+- Yang, X., Zhou, X., Xin, F., Becker, B., Linden, D., & Hernaus, D. (2023, May 9). Age-dependent changes in the dynamic functional organization of the brain at rest: a cross-cultural replication approach. *Cerebral Cortex*, 33(10), 6394-6406. [https://doi.org/10.1093/cercor/bhac512](#0){style="caret-color: white; font-size: 15pt;"}
+
+- Montag, C., Klugah-Brown, B., Zhou, X., Wernicke, J., Liu, C., Kou, J., Chen, Y., Haas, B. W., & Becker, B. (2023). Trust toward humans and trust toward artificial intelligence are not associated: Initial insights from self-report and neurostructural brain imaging. *Personality Neuroscience*, 6. <https://doi.org/10.1017/pen.2022.5>
+
+**2022**
+
+- Zhou, X\*., Wu, R., Zeng, Y., Qi, Z., Ferraro, S., Xu, L., Zheng, X., Li, J., Fu, M., Yao, S., Kendrick, K. M., & Becker, B\*. (2022, Sep 6). Choice of Voxel-based Morphometry processing pipeline drives variability in the location of neuroanatomical brain markers. *Communications Biology*, 5(1), 913. <https://doi.org/10.1038/s42003-022-03880-1>
+
+- Klugah-Brown, B., Zhou, X., Wang, L., Gan, X., Zhang, R., Liu, X., Song, X., Zhao, W., Biswal, B. B., Yu, F., Montag, C., & Becker, B. (2022). Associations between levels of Internet Gaming Disorder symptoms and striatal morphology--replication and associations with social anxiety. *Psychoradiology*, 2(4), 207-215. <https://doi.org/10.1093/psyrad/kkac020>
+
+- Sun, C., Wang, M., Zhou, X., Liu, G., & Zhou, Z. (2022, Oct 27). Dynamic cognitive processes of humor generation: activation and inhibition of information. *Psychological Research*. <https://doi.org/10.1007/s00426-022-01752-1>
+
+- Klugah-Brown, B., Yu, Y., Hu, P., Agoalikum, E., Liu, C., Liu, X., Yang, X., Zeng, Y., Zhou, X., Yu, X., Rypma, B., Michael, A. M., Li, X., Becker, B., & Biswal, B. (2022, Sep 21). Effect of surgical mask on fMRI signals during task and rest. *Communications Biology*, 5(1), 1004. <https://doi.org/10.1038/s42003-022-03908-6>
+
+- Zhao, W., Zhang, X., Zhou, X., Song, X., Zhang, Z., Xu, L., Zhou, F., & Kendrick, K. M. (2022, May 21). Depression mediates the association between insula-frontal functional connectivity and social interaction anxiety. *Human Brain Mapping*. <https://doi.org/10.1002/hbm.25952>
+
+- Yang, X., Qian, B., Zhou, X., Zhao, Y., Wang, L., & Zhang, Z. (2022, Apr). The effects of posture on mind wandering. *Psychological Research*, 86(3), 737-745. <https://doi.org/10.1007/s00426-021-01531-4>
+
+- Xu, X., Xin, F., Liu, C., Chen, Y., Yao, S., Zhou, X., Zhou, F., Huang, Y., Dai, J., Wang, J., Zou, Z., Kendrick, K. M., Zhou, B., & Becker, B. (2022, Jul 1). Disorder- and cognitive demand-specific neurofunctional alterations during social emotional working memory in generalized anxiety disorder and major depressive disorder. *Journal of Affective Disorders*, 308, 98-105. <https://doi.org/10.1016/j.jad.2022.04.023>
+
+- Xu, T., Zhou, X., Jiao, G., Zeng, Y., Zhao, W., Li, J., Yu, F., Zhou, F., Yao, S., & Becker, B. (2022, May 30). Angiotensin Antagonist Inhibits Preferential Negative Memory Encoding via Decreasing Hippocampus Activation and Its Coupling With the Amygdala. *Biological Psychiatry Cognitive Neuroscience and Neuroimaging*. <https://doi.org/10.1016/j.bpsc.2022.05.007>
+
+- Liu, X., Zhou, X., Zeng, Y., Li, J., Zhao, W., Xu, L., Zheng, X., Fu, M., Yao, S., Cannistraci, C. V., Kendrick, K. M., & Becker, B. (2022, Jun). Medial prefrontal and occipito-temporal activity at encoding determines enhanced recognition of threatening faces after 1.5 years. *Brain Structure and Function*, 227(5), 1655-1672. <https://doi.org/10.1007/s00429-022-02462-5>
+
+- Gao, Z., Ma, X., Zhou, X., Xin, F., Gao, S., Kou, J., Becker, B., & Kendrick, K. M. (2022). Oxytocin Reduces the Attractiveness of Silver-Tongued Men for Women During Mid-Cycle. *Frontiers in Neuroscience*, 16, 760695. <https://doi.org/10.3389/fnins.2022.760695>
+
+- Gan, X., Zhou, X., Li, J., Jiao, G., Jiang, X., Biswal, B., Yao, S., Klugah-Brown, B., & Becker, B. (2022, Apr). Common and distinct neurofunctional representations of core and social disgust in the brain: Coordinate-based and network meta-analyses. *Neuroscience and Biobehavioral Reviews*, 135, 104553. <https://doi.org/10.1016/j.neubiorev.2022.104553>
+
+**2017-2021**
+
+- Zhuang, Q., Zhu, S., Yang, X., Zhou, X., Xu, X., Chen, Z., Lan, C., Zhao, W., Becker, B., Yao, S., & Kendrick, K. M. (2021, Jan). Oxytocin-induced facilitation of learning in a probabilistic task is associated with reduced feedback- and error-related negativity potentials. *Journal of Psychopharmacology*, 35(1), 40-49. <https://doi.org/10.1177/0269881120972347>
+
+- Zhuang, Q., Xu, L., Zhou, F., Yao, S., Zheng, X., Zhou, X., Li, J., Xu, X., Fu, M., Li, K., Vatansever, D., Kendrick, K. M., & Becker, B. (2021, Sep). Segregating domain-general from emotional context-specific inhibitory control systems - ventral striatum and orbitofrontal cortex serve as emotion-cognition integration hubs. *Neuroimage*, 238, 118269. <https://doi.org/10.1016/j.neuroimage.2021.118269>
+
+- Zhao, Z., Yao, S., Zweerings, J., Zhou, X., Zhou, F., Kendrick, K. M., Chen, H., Mathiak, K., & Becker, B. (2021, Apr 15). Putamen volume predicts real-time fMRI neurofeedback learning success across paradigms and neurofeedback target regions. *Human Brain Mapping*, 42(6), 1879-1887. <https://doi.org/10.1002/hbm.25336>
+
+- Xu, X., Dai, J., Chen, Y., Liu, C., Xin, F., Zhou, X., Zhou, F., Stamatakis, E. A., Yao, S., Luo, L., Huang, Y., Wang, J., Zou, Z., Vatansever, D., Kendrick, K. M., Zhou, B., & Becker, B. (2021, Mar). Intrinsic connectivity of the prefrontal cortex and striato-limbic system respectively differentiate major depressive from generalized anxiety disorder. *Neuropsychopharmacology*, 46(4), 791-798. <https://doi.org/10.1038/s41386-020-00868-5>
+
+- Xin, F., Zhou, F., Zhou, X., Ma, X., Geng, Y., Zhao, W., Yao, S., Dong, D., Biswal, B. B., Kendrick, K. M., & Becker, B. (2021, Feb 5). Oxytocin Modulates the Intrinsic Dynamics Between Attention-Related Large-Scale Networks. *Cerebral Cortex*, 31(3), 1848-1860. <https://doi.org/10.1093/cercor/bhy295>
+
+- Liu, Y., Zhao, J., Zhou, X., Liu, X., Chen, H., & Yuan, H. (2021, Oct 8). The Neural Markers of Self-Caught and Probe-Caught Mind Wandering: An ERP Study. *Brain Science*, 11(10), 1329. <https://doi.org/10.3390/brainsci11101329>
+
+- Liu, C., Lan, C., Li, K., Zhou, F., Yao, S., Xu, L., Yang, N., Zhou, X., Yang, J., Yong, X., Ma, Y., Scheele, D., Kendrick, K. M., & Becker, B. (2021, Nov). Oxytocinergic Modulation of Threat-Specific Amygdala Sensitization in Humans Is Critically Mediated by Serotonergic Mechanisms. *Biological Psychiatry Cognitive Neuroscience and Neuroimaging*, 6(11), 1081-1089. <https://doi.org/10.1016/j.bpsc.2021.04.009>
+
+- Liu, C., Dai, J., Chen, Y., Qi, Z., Xin, F., Zhuang, Q., Zhou, X., Zhou, F., Luo, L., Huang, Y., Wang, J., Zou, Z., Chen, H., Kendrick, K. M., Zhou, B., Xu, X., & Becker, B. (2021, Apr 3). Disorder- and emotional context-specific neurofunctional alterations during inhibitory control in generalized anxiety and major depressive disorder. *Neuroimage Clinical*, 30, 102661. <https://doi.org/10.1016/j.nicl.2021.102661>
+
+- Klugah-Brown, B., Zhou, X., Pradhan, B. K., Zweerings, J., Mathiak, K., Biswal, B., & Becker, B. (2021, Jul). Common neurofunctional dysregulations characterize obsessive-compulsive, substance use, and gaming disorders-An activation likelihood meta-analysis of functional imaging studies. *Addiction Biology*, 26(4), e12997. <https://doi.org/10.1111/adb.12997>
+
+- Klugah-Brown, B., Jiang, C., Agoalikum, E., Zhou, X., Zou, L., Yu, Q., Becker, B., & Biswal, B. (2021, Aug 15). Common abnormality of gray matter integrity in substance use disorder and obsessive-compulsive disorder: A comparative voxel-based meta-analysis. *Human Brain Mapping*, 42(12), 3871-3886. <https://doi.org/10.1002/hbm.25471>
+
+- Zhou, X., Wu, R., Liu, C., Kou, J., Chen, Y., Pontes, H. M., Yao, D., Kendrick, K. M., Becker, B\*., & Montag, C\*. (2020, Oct 12). Higher levels of (Internet) Gaming Disorder symptoms according to the WHO and APA frameworks associate with lower striatal volume. *Journal of Behavioral Addictions*, 9(3), 598-605. <https://doi.org/10.1556/2006.2020.00066>
+
+- Zhou, X., Meng, Y., Schmitt, H. S., Montag, C., Kendrick, K. M., & Becker, B\*. (2020, Dec 1). Cognitive flexibility mediates the association between early life stress and habitual behavior. *Personality and Individual Differences*, 167, 110231. <https://doi.org/10.1016/j.paid.2020.110231>
+
+- Zhao, W., Zimmermann, K., Zhou, X., Zhou, F., Fu, M., Dernbach, C., Scheele, D., Weber, B., Eckstein, M., Hurlemann, R., Kendrick, K. M., & Becker, B. (2020, Mar 1). Impaired cognitive performance under psychosocial stress in cannabis-dependent men is associated with attenuated precuneus activity. *Journal of Psychiatry & Neuroscience*, 45(2), 88-97. <https://doi.org/10.1503/jpn.190039>
+
+- Xu, X., Dai, J., Liu, C., Chen, Y., Xin, F., Zhou, F., Zhou, X., Huang, Y., Wang, J., Zou, Z., Li, J., Ebstein, R. P., Kendrick, K. M., Zhou, B., & Becker, B. (2020, Nov 26). Common and Disorder-Specific Neurofunctional Markers of Dysregulated Empathic Reactivity in Major Depression and Generalized Anxiety Disorder. *Psychotherapy and Psychosomatics*, 89(2), 114-116. <https://doi.org/10.1159/000504180>
+
+- Xin, F., Zhou, X., Dong, D., Zhao, Z., Yang, X., Wang, Q., Gu, Y., Kendrick, K. M., Chen, A., & Becker, B. (2020, Aug). Oxytocin Differentially Modulates Amygdala Responses during Top-Down and Bottom-Up Aversive Anticipation. *Advanced Science*, 7(16), 2001077. <https://doi.org/10.1002/advs.202001077>
+
+- Chi, X., Becker, B., Yu, Q., Willeit, P., Jiao, C., Huang, L., Hossain, M. M., Grabovac, I., Yeung, A., Lin, J., Veronese, N., Wang, J., Zhou, X., Doig, S. R., Liu, X., Carvalho, A. F., Yang, L., Xiao, T., Zou, L., Fusar-Poli, P., & Solmi, M. (2020, Aug 7). Prevalence and Psychosocial Correlates of Mental Health Outcomes Among Chinese College Students During the Coronavirus Disease (COVID-19) Pandemic. *Frontiers in Psychiatry*, 11, 803. <https://doi.org/10.3389/fpsyt.2020.00803>
+
+- Bielczyk, N. Z., Ando, A., Badhwar, A., Caldinelli, C., Gao, M., Haugg, A., Hernandez, L. M., Ito, K. L., Kessler, D., Lurie, D., Makary, M. M., Nikolaidis, A., Veldsman, M., Allen, C., Bankston, A., Bottenhorn, K. L., Braukmann, R., Calhoun, V., Cheplygina, V., Boffino, C. C., Ercan, E., Finc, K., Foo, H., Khatibi, A., La, C., Mehler, D. M. A., Narayanan, S., Poldrack, R. A., Raamana, P. R., Salo, T., Godard-Sebillotte, C., Uddin, L. Q., Valeriani, D., Valk, S. L., Walton, C. C., Ward, P. G. D., Yanes, J. A., Zhou, X., Student, O., & Postdoc Special Interest, G. (2020, Apr 22). Effective Self-Management for Early Career Researchers in the Natural and Life Sciences. *Neuron*, 106(2), 212-217. <https://doi.org/10.1016/j.neuron.2020.03.015>
+
+- Zhou, X., Zimmermann, K., Xin, F., Zhao, W., Derckx, R. T., Sassmannshausen, A., Scheele, D., Hurlemann, R., Weber, B., Kendrick, K. M., & Becker, B\*. (2019, Aug). Cue Reactivity in the Ventral Striatum Characterizes Heavy Cannabis Use, Whereas Reactivity in the Dorsal Striatum Mediates Dependent Use. *Biological Psychiatry Cognitive Neuroscience and Neuroimaging*, 4(8), 751-762. <https://doi.org/10.1016/j.bpsc.2019.04.006>
+
+- Xu, X., Liu, C., Zhou, X., Chen, Y., Gao, Z., Zhou, F., Kou, J., Becker, B., & Kendrick, K. M. (2019, Aug 1). Oxytocin Facilitates Self-Serving Rather Than Altruistic Tendencies in Competitive Social Interactions Via Orbitofrontal Cortex. *International Journal of Neuropsychopharmacology*, 22(8), 501-512. <https://doi.org/10.1093/ijnp/pyz028>
+
+- Zhou, X., & Lei, X\*. (2018, Dec). Wandering Minds with Wandering Brain Networks. *Neuroscience Bulletin*, 34(6), 1017-1028. <https://doi.org/10.1007/s12264-018-0278-7>
+
+- Zhou, X., Wu, T., Yu, J., & Lei, X\*. (2017, Feb). Sleep Deprivation Makes the Young Brain Resemble the Elderly Brain: A Large-Scale Brain Networks Study. *Brain Connectivity*, 7(1), 58-68. [https://doi.org/10.1089/brain.2016.04](https://doi.org/10.1089/brain.2016.0452){.uri}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
