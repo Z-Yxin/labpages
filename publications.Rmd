@@ -22,25 +22,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Zhou, X\*., Liu, Q., Wang, L., Gan, X., Zhang, R., Liu, X., \... & Becker, B\*. (2024). The neuroanatomical correlates of daily habitual tendencies and mediating effect on the association between daily habitual tendencies and symptoms of behavioral addictions. *Computers in Human Behavior*, 158. <https://doi.org/10.1016/j.chb.2024.108310>
 
-- Putkinen, V#\*., Zhou, X#., Gan, X., Yang, L., Becker, B\*., Sams, M., & Nummenmaa, L. (2024). Bodily maps of musical sensations across cultures. *PNAS*, *121*(5), e2308859121. <https://doi.org/10.1073/pnas.2308859121>
+- Putkinen, V#\*., Zhou, X#., Gan, X., Yang, L., Becker, B\*., Sams, M., & Nummenmaa, L. (2024). Bodily maps of musical sensations across cultures. *PNAS*, 121(5), e2308859121. <https://doi.org/10.1073/pnas.2308859121>
 
 - Shen, X#., Zhou, X#., Liao, H., McDonnell, D., & Wang, J\*. (2024). Uncovering the symptom relationship between anxiety, depression, and internet addiction among left-behind children: A large-scale purposive sampling network analysis. *Journal of Psychiatric Research*. <https://doi.org/10.1016/j.jpsychires.2024.01.025>
 
-- Zhou, X., & Shen, X\*. (2024). Unveiling the relationship between social anxiety, loneliness, motivations, and problematic smartphone use: A network approach. *Comprehensive Psychiatry*, *130*. <https://doi.org/10.1016/j.comppsych.2024.152451> 
+- Zhou, X., & Shen, X\*. (2024). Unveiling the relationship between social anxiety, loneliness, motivations, and problematic smartphone use: A network approach. *Comprehensive Psychiatry*, 130. <https://doi.org/10.1016/j.comppsych.2024.152451> 
 
-- Zhou, X#\*., Meng, Y#., Li, J., & Shen, X. (2024). Childhood adversity and mind wandering: the mediating role of cognitive flexibility and habitual tendencies. *European Journal of Psychotraumatology*, *15*(1), 2301844. [https://doi.org/10.1080/20008066.2024](https://doi.org/10.1080/20008066.2024.2301844){.uri}
+- Zhou, X#\*., Meng, Y#., Li, J., & Shen, X. (2024). Childhood adversity and mind wandering: the mediating role of cognitive flexibility and habitual tendencies. *European Journal of Psychotraumatology*, 15(1), 2301844. <https://doi.org/10.1080/20008066.2024.2301844>
 
 - Lan, C., Kou, J., Liu, Q., Qing, P., Zhang, X., Song, X., Xu, D., Zhang, Y., Chen, Y., Zhou, X., Kendrick, K. M., & Zhao, W. (2024). Oral oxytocin blurs sex differences in amygdala responses to emotional scenes. *Biol Psychiatry Cogn Neurosci Neuroimaging*. <https://doi.org/10.1016/j.bpsc.2024.05.010>
 
-- Gan, X., Zhou, F., Xu, T. *et al.* A neurofunctional signature of subjective disgust generalizes to oral distaste and socio-moral contexts. *Nat Hum Behav* (2024). <https://doi.org/10.1038/s41562-024-01868-x>
+- Gan, X., Zhou, F., Xu, T. et al. (2024). A neurofunctional signature of subjective disgust generalizes to oral distaste and socio-moral contexts. *Nat Hum Behav*. <https://doi.org/10.1038/s41562-024-01868-x>
 
-- Liu, X., Tian, R., Bai, X., Liu, H., Li, T., Zhou, X., & Lei, Y. (2024). Exploring the impact of smartphone addiction on decision-making behavior in college students: an fNIRS study based on the Iowa Gambling Task. Frontiers in Psychiatry, 15. <https://doi.org/10.3389/fpsyt.2024.1342521>
+- Liu, X., Tian, R., Bai, X., Liu, H., Li, T., Zhou, X., & Lei, Y. (2024). Exploring the impact of smartphone addiction on decision-making behavior in college students: an fNIRS study based on the Iowa Gambling Task. *Frontiers in Psychiatry*, 15. <https://doi.org/10.3389/fpsyt.2024.1342521>
 
 - Zhu, S., Liu, Q., Zhang, X., Zhou, M., Zhou, X., Ding, F., Zhang, R., Becker, B., Kendrick, K. M., & Zhao, W. (2024). Transcutaneous auricular vagus nerve stimulation enhanced emotional inhibitory control via increasing intrinsic prefrontal couplings. International Journal of Clinical and Health Psychology, 24(2). <https://doi.org/10.1016/j.ijchp.2024.100462>
 
 - Shen, X., Zhou, X., Yin, X. Q., McDonnell, D., & Wang, J. L. (2024). Facing uncertainties: The longitudinal relationship between childhood maltreatment and exploratory behavior. Child Abuse & Neglect, 106714. <https://doi.org/10.1016/j.chiabu.2024.106714>
 
-- Xu, T., Chen, Z., Zhou, X., Wang, L., Zhou, F., Yao, D., Zhou, B., & Becker, B. (2024). The central renin-angiotensin system: A genetic pathway, functional decoding, and selective target engagement characterization in humans. *Proc Natl Acad Sci U S A*, *121*(8), e2306936121. [https://doi.org/10.1073/pnas.2306936121](#0){.uri style="caret-color: white; font-size: 15pt;"}
+- Xu, T., Chen, Z., Zhou, X., Wang, L., Zhou, F., Yao, D., Zhou, B., & Becker, B. (2024). The central renin-angiotensin system: A genetic pathway, functional decoding, and selective target engagement characterization in humans. *Proc Natl Acad Sci U S A*, 121(8), e2306936121. <https://doi.org/10.1073/pnas.2306936121>
 
 - Liu, Q., Zhu, S., Zhou, X., Liu, F., Becker, B., Kendrick, K. M., & Zhao, W. (2024). Mothers and fathers show different neural synchrony with their children during shared experiences. *NeuroImage*, 120529. <https://doi.org/10.1016/j.neuroimage.2024.120529>
 
@@ -56,9 +56,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Liu, Q., Song, X., Zhou, X., Huang, L., Zhang, X., Wang, L., Zhu, S., Lan, C., Yang, W., & Zhao, W. (2023). Regional superficial amygdala resting-state functional connectivity in adults infers childhood maltreatment severity. *Psychoradiology*, 3. <https://doi.org/10.1093/psyrad/kkad004>
 
-- Xu, T., Zhou, X., Kanen, J. W., Wang, L., Li, J., Chen, Z., Zhang, R., Jiao, G., Zhou, F., Zhao, W., Yao, S., & Becker, B. (2023, Apr). Angiotensin blockade enhances motivational reward learning via enhancing striatal prediction error signaling and frontostriatal communication. *Molecular Psychiatry*, 28(4), 1692-1702. [https://doi.org/10.1038/s41380-023-02001-6](#0){style="caret-color: white; font-size: 15pt;"}
+- Xu, T., Zhou, X., Kanen, J. W., Wang, L., Li, J., Chen, Z., Zhang, R., Jiao, G., Zhou, F., Zhao, W., Yao, S., & Becker, B. (2023, Apr). Angiotensin blockade enhances motivational reward learning via enhancing striatal prediction error signaling and frontostriatal communication. *Molecular Psychiatry*, 28(4), 1692-1702. <https://doi.org/10.1038/s41380-023-02001-6>
 
-- Yang, X., Zhou, X., Xin, F., Becker, B., Linden, D., & Hernaus, D. (2023, May 9). Age-dependent changes in the dynamic functional organization of the brain at rest: a cross-cultural replication approach. *Cerebral Cortex*, 33(10), 6394-6406. [https://doi.org/10.1093/cercor/bhac512](#0){style="caret-color: white; font-size: 15pt;"}
+- Yang, X., Zhou, X., Xin, F., Becker, B., Linden, D., & Hernaus, D. (2023, May 9). Age-dependent changes in the dynamic functional organization of the brain at rest: a cross-cultural replication approach. *Cerebral Cortex*, 33(10), 6394-6406. <https://doi.org/10.1093/cercor/bhac512>
 
 - Montag, C., Klugah-Brown, B., Zhou, X., Wernicke, J., Liu, C., Kou, J., Chen, Y., Haas, B. W., & Becker, B. (2023). Trust toward humans and trust toward artificial intelligence are not associated: Initial insights from self-report and neurostructural brain imaging. *Personality Neuroscience*, 6. <https://doi.org/10.1017/pen.2022.5>
 
@@ -128,8 +128,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Zhou, X., & Lei, X\*. (2018, Dec). Wandering Minds with Wandering Brain Networks. *Neuroscience Bulletin*, 34(6), 1017-1028. <https://doi.org/10.1007/s12264-018-0278-7>
 
-- Zhou, X., Wu, T., Yu, J., & Lei, X\*. (2017, Feb). Sleep Deprivation Makes the Young Brain Resemble the Elderly Brain: A Large-Scale Brain Networks Study. *Brain Connectivity*, 7(1), 58-68. [https://doi.org/10.1089/brain.2016.04](https://doi.org/10.1089/brain.2016.0452){.uri}
-
+- Zhou, X., Wu, T., Yu, J., & Lei, X\*. (2017, Feb). Sleep Deprivation Makes the Young Brain Resemble the Elderly Brain: A Large-Scale Brain Networks Study. *Brain Connectivity*, 7(1), 58-68. <https://doi.org/10.1089/brain.2016.04]>
 
 
 
