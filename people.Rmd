@@ -40,7 +40,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <td><p>Liuqing Jiang</p><p>Graduate Student (2023)</p><p>E-mail: 20232491004@stu.sicnu.edu.cn</p><p style="max-width: 350px;">Research Interests: Internet addiction, motivation, and effort</p></td>
 
 <td><img src="./imgs/tingran.jpg" width="100" height="140"/></td>
-<td><p>Tingran Chen</p><p>Graduate Student (2024)</p><p style="max-width: 350px;">Research Interests:</p></td>
+<td><p>Tingran Chen</p><p>Graduate Student (2024)</p><p style="max-width: 350px;">I'm a feminist, queer. My research interests are decison-making, emotion, and reward. My hobbies are running, biking, dancing, music, and puzzle game.</p></td>
 </tr></table></div>
 
 &nbsp;
