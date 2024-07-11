@@ -14,9 +14,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -------
 
+<div align=center>  <img src="./imgs/labbackground.jpg" width=50%></div>
+
 Our research interests lie in adopting an interdisciplinary approach that integrates psychology, cognitive neuroscience, artificial intelligence, biomedical engineering, and other fields. We utilize methodologies such as behavioral studies, psychometrics, multimodal brain imaging, and other physiological signal measurement techniques, combined with machine learning and computational modeling. Our research aims to explore social cognition and affective neuroscience, with specific directions as follows:
 
 - Cognitive neuromechanisms of reward and their influencing factors (reward perception, brain development and maturation, etc.)
 - Habits and flexible decision-making mechanisms and their influencing factors (early life stress, uncertainty, and exploratory behavior, etc.)
 - Intervention research on behavioral and mental disorders (anhedonia, addiction to social media and online gaming, etc.)
 
+
+![]()
