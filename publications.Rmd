@@ -30,6 +30,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Zhou, X#\*., Meng, Y#., Li, J., & Shen, X. (2024). Childhood adversity and mind wandering: the mediating role of cognitive flexibility and habitual tendencies. *European Journal of Psychotraumatology*, 15(1), 2301844. <https://doi.org/10.1080/20008066.2024.2301844>
 
+- Shen, X., Zhou, X., King, D.L. et al. (2024). Uncovering the associations between different motivations and the heterogeneity of problematic smartphone use: a person-centered perspective. *Curr Psychol*. <https://doi.org/10.1007/s12144-024-06488-2>
+
 - Lan, C., Kou, J., Liu, Q., Qing, P., Zhang, X., Song, X., Xu, D., Zhang, Y., Chen, Y., Zhou, X., Kendrick, K. M., & Zhao, W. (2024). Oral oxytocin blurs sex differences in amygdala responses to emotional scenes. *Biol Psychiatry Cogn Neurosci Neuroimaging*. <https://doi.org/10.1016/j.bpsc.2024.05.010>
 
 - Gan, X., Zhou, F., Xu, T. et al. (2024). A neurofunctional signature of subjective disgust generalizes to oral distaste and socio-moral contexts. *Nat Hum Behav*. <https://doi.org/10.1038/s41562-024-01868-x>
