@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [English](zhxqcv_en.html)
 
-周鑫岐，博士，助理研究员，硕士生导师。
+周鑫岐，博士，副研究员，硕士生导师。
 
 邮箱：[zhxq\@sicnu.edu.cn](mailto:zhxq@sicnu.edu.cn){.email}
 
@@ -25,7 +25,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### 工作经历
 
-2022.02-至今 四川师范大学，脑与心理科学研究院，助理研究员
+2024.07-至今 四川师范大学，脑与心理科学研究院，副研究员
+
+2022.02-2024.07 四川师范大学，脑与心理科学研究院，助理研究员
 
 ### 教育经历
 

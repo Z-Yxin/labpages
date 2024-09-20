@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [中文版](zhxqcv_ch.html)
 
-Xinqi Zhou, PhD, Assistant Researcher
+Xinqi Zhou, PhD, Associate Researcher
 
 Email：[zhxq\@sicnu.edu.cn](mailto:zhxq@sicnu.edu.cn){.email}
 
