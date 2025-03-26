@@ -20,11 +20,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \# First author, \* Corresponding author
 
+**2025**
+
+-   Zhang, X., Qing, P., Liu, Q., Liu, C., Liu, L., Gan, X., Fu, K., Lan, C., Zhou, X., Kendrick, K. M., Becker, B., & Zhao, W. (2025). Neural Patterns of Social Pain in the Brain-Wide Representations Across Social Contexts. *Advanced Science*, e2413795. https://doi.org/10.1002/advs.202413795 
+
+-   Shen, X#., Zhou, X#., Guo, Y., & Wang, J. L\*. (2025). Associations of Early-Life Deprivation and Threat with Exploratory Behavior: Moderated Mediation Models of Sensation Seeking and Executive Function. *Journal of Interpersonal Violence*, 40(5-6), 1063-1089. https://doi.org/10.1177/08862605241257946 
+
+-   Gao, W., Biswal, B., Zhou, X., Xing, J., Yang, J., & Yuan, J. (2025). The neural mechanisms subserving the adaptiveness of emotion regulation flexibility and its link to depression. *J Affect Disord*, 379, 332-341. <https://doi.org/10.1016/j.jad.2025.03.053>
+
+	
+
 **2024**
 
 -   Gao, W., Biswal, B., Zhou, X., Xiao, Z., Yang, J., Li, Y., Yuan, J. (2024). Altered default-mode and frontal‐parietal network pattern underlie adaptiveness of emotion regulation flexibility following task-switch training, *Social Cognitive and Affective Neuroscience*, nsae077. <https://doi.org/10.1093/scan/nsae077>
-
--   Shen, X#., Zhou, X#., Guo, Y., & Wang, J. L\*. (2024). Associations of Early-Life Deprivation and Threat with Exploratory Behavior: Moderated Mediation Models of Sensation Seeking and Executive Function. *Journal of Interpersonal Violence*, 8862605241257946. <https://doi.org/10.1177/08862605241257946>
 
 -   Zhou, X\*., Liu, Q., Wang, L., Gan, X., Zhang, R., Liu, X., \... & Becker, B\*. (2024). The neuroanatomical correlates of daily habitual tendencies and mediating effect on the association between daily habitual tendencies and symptoms of behavioral addictions. *Computers in Human Behavior*, 158. <https://doi.org/10.1016/j.chb.2024.108310>
 
@@ -136,4 +144,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   Zhou, X., & Lei, X\*. (2018, Dec). Wandering Minds with Wandering Brain Networks. *Neuroscience Bulletin*, 34(6), 1017-1028. <https://doi.org/10.1007/s12264-018-0278-7>
 
--   Zhou, X., Wu, T., Yu, J., & Lei, X\*. (2017, Feb). Sleep Deprivation Makes the Young Brain Resemble the Elderly Brain: A Large-Scale Brain Networks Study. *Brain Connectivity*, 7(1), 58-68. [https://doi.org/10.1089/brain.2016.04]](https://doi.org/10.1089/brain.2016.04%5D){.uri}
+-   Zhou, X., Wu, T., Yu, J., & Lei, X\*. (2017, Feb). Sleep Deprivation Makes the Young Brain Resemble the Elderly Brain: A Large-Scale Brain Networks Study. *Brain Connectivity*, 7(1), 58-68. [<https://doi.org/10.1089/brain.2016.04>]](<https://doi.org/10.1089/brain.2016.04%5D>){.uri}
