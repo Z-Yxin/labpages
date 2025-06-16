@@ -22,6 +22,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **2025**
 
+-   Liu, Q#., Zhou, X#., Lan, C., Xu, X., Chen, Y., Chen, T., Wang, J., Zhou, B., Yao, D., Kendrick, K. M., Becker, B\*., & Zhao, W\*. (2025). Multilevel brain functional connectivity and task-based representations explaining heterogeneity in major depressive disorder. *Translational Psychiatry*, 15(1). https://doi.org/10.1038/s41398-025-03413-4
+
 -   Zhang, X., Qing, P., Liu, Q., Liu, C., Liu, L., Gan, X., Fu, K., Lan, C., Zhou, X., Kendrick, K. M., Becker, B., & Zhao, W. (2025). Neural Patterns of Social Pain in the Brain-Wide Representations Across Social Contexts. *Advanced Science*, e2413795. https://doi.org/10.1002/advs.202413795 
 
 -   Shen, X#., Zhou, X#., Guo, Y., & Wang, J. L\*. (2025). Associations of Early-Life Deprivation and Threat with Exploratory Behavior: Moderated Mediation Models of Sensation Seeking and Executive Function. *Journal of Interpersonal Violence*, 40(5-6), 1063-1089. https://doi.org/10.1177/08862605241257946 
