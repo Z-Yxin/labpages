@@ -17,8 +17,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 <div align="left"><table rules="none"><tr>
+
 <td><a href="./people/zhxqcv_en.html"><img src="./imgs/zhxq.jpg" width="100" height="140"> </a></td>
-<td><p>Xinqi Zhou</p><p>Primary Investigator</p></td>
+<td>
+<p>Xinqi Zhou</p>
+<p>Primary Investigator</p>
+</td>
+
 </tr></table></div>
 
 &nbsp;
@@ -26,30 +31,75 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Current Members
 
 <div align="left"><table rules="none"><tr>
-<td><img src="./imgs/changchun.jpg" width="100" height="140"/></td>
-<td><p>Changchun Liu</p><p>Graduate Student (2022)</p><p style="max-width: 350px;">Research Interests: The influence of emotion on decision-making behavior under uncertain conditions</p></td>
 
 <td><img src="./imgs/yuchun.jpg" width="100" height="140"/></td>
-<td><p>Yuchun Li</p><p>Graduate Student (2023)</p><p style="max-width: 350px;">Research Interests: Social decision-making and social competition</p></td>
+<td>
+<p>Yuchun Li</p>
+<p>Graduate Student (2023)</p>
+<p style="max-width: 350px;">Research Interests: Social decision-making and social competition</p>
+</td>
+
+<td><img src="./imgs/liuqing.jpg" width="100" height="140"/></td>
+<td>
+<p>Liuqing Jiang</p>
+<p>Graduate Student (2023)</p>
+<p>E-mail: 20232491004@stu.sicnu.edu.cn</p>
+<p style="max-width: 350px;">Research Interests: Internet addiction, motivation, and effort</p>
+</td>
+
 </tr></table></div>
 
 &nbsp;
 
 <div align="left"><table rules="none"><tr>
-<td><img src="./imgs/liuqing.jpg" width="100" height="140"/></td>
-<td><p>Liuqing Jiang</p><p>Graduate Student (2023)</p><p>E-mail: 20232491004@stu.sicnu.edu.cn</p><p style="max-width: 350px;">Research Interests: Internet addiction, motivation, and effort</p></td>
 
 <td><img src="./imgs/tingran.jpg" width="100" height="140"/></td>
-<td><p>Tingran Chen</p><p>Graduate Student (2024)</p><p style="max-width: 350px;">I'm a feminist, queer. My research interests are decison-making, emotion, and reward. My hobbies are running, biking, dancing, music, and puzzle game.</p></td>
+<td>
+<p>Tingran Chen</p>
+<p>Graduate Student (2024)</p>
+<p style="max-width: 350px;">I'm a feminist, queer. My research interests are decison-making, emotion, and reward. My hobbies are running, biking, dancing, music, and puzzle game.</p>
+</td>
+
+<td><img src="./imgs/jingrong.jpg" width="100" height="140"/></td>
+<td>
+<p>Jingrong Tian</p>
+<p>Graduate Student (2024)</p>
+<p style="max-width: 350px;">Research Interests: Cyber psychology and internet violence</p>
+<p style="max-width: 350px;">Love succulent, aquarium, coffee, and reading</p>
+</td>
+
 </tr></table></div>
 
 &nbsp;
 
 <div align="left"><table rules="none"><tr>
-<td><img src="./imgs/jingrong.jpg" width="100" height="140"/></td>
-<td><p>Jingrong Tian</p><p>Graduate Student (2024)</p><p style="max-width: 350px;">Research Interests: Cyber psychology and internet violence</p><p style="max-width: 350px;">Love succulent, aquarium, coffee, and reading</p></td>
+
+<td><img src="./imgs/xiongyuping.jpg" width="100" height="140"/></td>
+<td>
+<p>Yuping Xiong</p>
+<p>Graduate Student (2025)</p>
+<p style="max-width: 350px;">Research Interests: AI  interaction, decision-making</p>
+</td>
+
+<td><img src="./imgs/zhangmingrui.jpg" width="100" height="140"/></td>
+<td>
+<p>Mingrui Zhang</p>
+<p>Graduate Student (2025)</p>
+<p style="max-width: 350px;">Research Interests: decision-making</p>
+<p style="max-width: 350px;">My hobbies are music, photography, movie.</p>
+</td>
+
 </tr></table></div>
 
 &nbsp;
 
 ### Lab Alumni
+
+<div align="left"><table rules="none"><tr>
+
+<td><img src="./imgs/changchun.jpg" width="100" height="140"/></td>
+<td><p>Changchun Liu</p><p>Graduate Student (2022)</p><p style="max-width: 350px;">Research Interests: The influence of emotion on decision-making behavior under uncertain conditions</p></td>
+
+</tr></table></div>
+
+

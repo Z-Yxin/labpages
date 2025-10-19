@@ -22,15 +22,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **2025**
 
--   Liu, Q#., Zhou, X#., Lan, C., Xu, X., Chen, Y., Chen, T., Wang, J., Zhou, B., Yao, D., Kendrick, K. M., Becker, B\*., & Zhao, W\*. (2025). Multilevel brain functional connectivity and task-based representations explaining heterogeneity in major depressive disorder. *Translational Psychiatry*, 15(1). https://doi.org/10.1038/s41398-025-03413-4
+-   Zhang, X., Liu, Q., Liu, C., Wang, Z., Fu, K., Lan, C., Xu, T., Zhou, X., Kendrick, K. M., Yao, D., Becker, B., & Zhao, W\*. (2025). Oxytocin and vasopressin enhance social pain empathy via common and distinct of neural expressions, genetic pathways, and networks. Proc Natl Acad Sci U S A, 122(39), e2520651122. <https://doi.org/10.1073/pnas.2520651122>
 
--   Zhang, X., Qing, P., Liu, Q., Liu, C., Liu, L., Gan, X., Fu, K., Lan, C., Zhou, X., Kendrick, K. M., Becker, B., & Zhao, W. (2025). Neural Patterns of Social Pain in the Brain-Wide Representations Across Social Contexts. *Advanced Science*, e2413795. https://doi.org/10.1002/advs.202413795 
+-   Liu, Q#., Zhou, X#., Lan, C., Xu, X., Chen, Y., Chen, T., Wang, J., Zhou, B., Yao, D., Kendrick, K. M., Becker, B\*., & Zhao, W\*. (2025). Multilevel brain functional connectivity and task-based representations explaining heterogeneity in major depressive disorder. *Translational Psychiatry*, 15(1). <https://doi.org/10.1038/s41398-025-03413-4>
 
--   Shen, X#., Zhou, X#., Guo, Y., & Wang, J. L\*. (2025). Associations of Early-Life Deprivation and Threat with Exploratory Behavior: Moderated Mediation Models of Sensation Seeking and Executive Function. *Journal of Interpersonal Violence*, 40(5-6), 1063-1089. https://doi.org/10.1177/08862605241257946 
+-   Zhang, X., Qing, P., Liu, Q., Liu, C., Liu, L., Gan, X., Fu, K., Lan, C., Zhou, X., Kendrick, K. M., Becker, B., & Zhao, W. (2025). Neural Patterns of Social Pain in the Brain-Wide Representations Across Social Contexts. *Advanced Science*, e2413795. <https://doi.org/10.1002/advs.202413795>
+
+-   Shen, X#., Zhou, X#., Guo, Y., & Wang, J. L\*. (2025). Associations of Early-Life Deprivation and Threat with Exploratory Behavior: Moderated Mediation Models of Sensation Seeking and Executive Function. *Journal of Interpersonal Violence*, 40(5-6), 1063-1089. <https://doi.org/10.1177/08862605241257946>
+
+-   Liu, H., Wang, J., Zhou, S., Zhou, X., Li, H., Dou, H., & Lei, Y. (2025). Impact of trait anxiety on computational mechanism of approach-avoidance conflict decision. Cogn Emot, 1-19. <https://doi.org/10.1080/02699931.2025.2519665>
 
 -   Gao, W., Biswal, B., Zhou, X., Xing, J., Yang, J., & Yuan, J. (2025). The neural mechanisms subserving the adaptiveness of emotion regulation flexibility and its link to depression. *J Affect Disord*, 379, 332-341. <https://doi.org/10.1016/j.jad.2025.03.053>
-
-	
 
 **2024**
 
